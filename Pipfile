@@ -1,0 +1,24 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+matplotlib = "*"
+numpy = "*"
+tqdm = "*"
+pandas = "*"
+ipython = "*"
+opencv-python = "*"
+sanic = "*"
+python-socketio = "*"
+pyyaml = "*"
+jupyter = "*"
+PyYAML = "*"
+python-mnist = "*"
+# we need the most recent version of python-engineio,
+# otherwise it wont be compatible with sanic; you can probably
+# remove this line in the future (today is 2021-02-05)
+python-engineio = {editable = true, git = "https://github.com/miguelgrinberg/python-engineio"}
