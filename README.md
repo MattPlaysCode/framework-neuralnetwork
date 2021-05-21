@@ -1,7 +1,7 @@
 # Background
 * This framework was created for a gesture recognition project in the Human Computer Interaction course at the University of Würzburg.
 * You can see the result **[here](https://www.youtube.com/watch?v=LjNq6iJn_EQ)**.
-* The development was done in collaboration with my colleague @Schmifers.
+* The development was done in collaboration with my colleague **[Jan](https://github.com/schmifers)**.
 
 # Prerequesites
 * you need at least Python 3.7
